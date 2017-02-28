@@ -1,0 +1,8 @@
+target/
+*.orig
+activemq-data/
+ebay.log
+.settings/
+.classpath
+.project
+*.class
